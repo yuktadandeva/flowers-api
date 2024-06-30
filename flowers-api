@@ -4,7 +4,7 @@
       "category": "Shrubs",
       "price": 15.99,
       "instructions": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
-      "photo": "california_snow.jpg",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flower_in_Horton_Plains_1.jpg",
       "name": "Azalea",
       "productId": 1
     },
@@ -12,7 +12,7 @@
       "category": "Shrubs",
       "price": 33.99,
       "instructions": "Beautiful large royal purple flowers adorn attractive satiny green leaves that turn orange\\/red in cold weather. Grows to up to 18 feet, or prune annually to shorten.",
-      "photo": "princess_flower.jpg",
+      "photo": "https://shop-static.arborday.org/media/0002350_orange-azalea-mollis-hybrid_510.jpg",
       "name": "Tibouchina Semidecandra",
       "productId": 2
     },
